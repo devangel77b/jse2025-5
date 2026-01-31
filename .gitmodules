@@ -1,0 +1,24 @@
+[submodule "426cbutash-lab10"]
+	path = butash
+	url = git@github.com:devangel77b/426cbutash-lab10.git
+[submodule "426acetrulo-lab10"]
+	path = cetrulo
+	url = git@github.com:devangel77b/426acetrulo-lab10.git
+[submodule "426davalur-lab10"]
+	path = davalur
+	url = git@github.com:devangel77b/426davalur-lab10.git
+[submodule "426vgovardhanen-lab10"]
+	path = govardhanen
+	url = git@github.com:devangel77b/426vgovardhanen-lab10.git
+[submodule "426akabatsky-lab10"]
+	path = kabatsky
+	url = git@github.com:devangel77b/426akabatsky-lab10.git
+[submodule "426ravalur-lab10"]
+	path = ravalur
+	url = git@github.com:devangel77b/426ravalur-lab10.git
+[submodule "426syagnyeshwaran-lab10"]
+	path = yagnyeshwaran
+	url = git@github.com:devangel77b/426syagnyeshwaran-lab10.git
+[submodule "426ccanada-lab10"]
+	path = canada
+	url = git@github.com:devangel77b/426ccanada-lab10.git
