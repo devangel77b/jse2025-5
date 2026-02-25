@@ -22,3 +22,6 @@
 [submodule "426ccanada-lab10"]
 	path = canada
 	url = git@github.com:devangel77b/426ccanada-lab10.git
+[submodule "guimaraes"]
+	path = guimaraes
+	url = git@github.com:devangel77b/426aguimaraes-lab10.git
