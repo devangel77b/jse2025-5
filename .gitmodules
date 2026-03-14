@@ -25,3 +25,6 @@
 [submodule "guimaraes"]
 	path = guimaraes
 	url = git@github.com:devangel77b/426aguimaraes-lab10.git
+[submodule "jse-electricity-template"]
+	path = jse-electricity-template
+	url = git@github.com:devangel77b/jse-electricity-template.git
